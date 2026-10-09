@@ -1,2 +1,16 @@
 # maarufshuaibu.github.io
 Maaruf personal website 
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maaruf Shuaibu | Official Profile</title>
+    <meta name="description" content="Learn about Maaruf Shuaibu, a Computer Science student and aspiring software developer from Nigeria.">
+</head>
+<body>
+    <h1>Maaruf Shuaibu</h1>
+    <h2>Computer Science Student | Aspiring Software Developer</h2>
+    <p>Welcome to my personal website!</p>
+    <p>I am interested in software development, technology, and football.</p>
+</body>
+</html>
